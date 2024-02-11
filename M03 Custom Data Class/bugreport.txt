@@ -1,0 +1,1 @@
+Didn't have many issues. Had an issue with the getters and setters but figured it out quickly.
