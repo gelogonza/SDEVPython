@@ -1,0 +1,1 @@
+had some issues importing the template file into the urls.py for the project. 
