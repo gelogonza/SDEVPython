@@ -1,0 +1,2 @@
+Had an issue with file path but figured out a better solution.
+Also couldn't find 15.8 in the textbook
